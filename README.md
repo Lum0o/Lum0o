@@ -2,7 +2,9 @@
 
 📈 my github stats
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Lum0o&show_icons=true&theme=gotham" alt="highcontrast" /> </p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=lum0o&rank_icon=github&bg_color=0,233139,696969&text_color=dbdbdb&title_color=dbdbdb" />
+</p>
 
 <!--
 **Lum0o/Lum0o** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

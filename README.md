@@ -1,5 +1,9 @@
 ### Welcome here, may you find what you search for .. 
 
+📈 my github stats
+
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Lum0o&show_icons=true&theme=gotham" alt="hightcontrast" />
+
 <!--
 **Lum0o/Lum0o** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
